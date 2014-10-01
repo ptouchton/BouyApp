@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+     <PreferenceCategory
+    android:title="General"
+    android:summary="">
+        <EditTextPreference
+                android:name="Search Distance"
+                android:summary="Distance in miles to conduct bouy search from current location"
+                android:defaultValue="300"
+                android:title="Search Distance in miles"
+                android:key="editDistancePref" />
+ 
+    </PreferenceCategory> 
+    
+    
+</PreferenceScreen>

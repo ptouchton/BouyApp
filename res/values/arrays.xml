@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_bouy_items" id="pref_bouy_items">
+    <item>Item1</item>
+    <item>Item2</item>
+    <item>Item3</item>
+    <item>Item4</item>
+    <item>Item5</item>
+    </string-array>
+
+    <string-array name="pref_bouy_items_values">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    </string-array>
+</resources>

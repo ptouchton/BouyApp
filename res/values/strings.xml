@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_no_items">No bouys were found within this location...suggest increasing search radius in preferences</string>
+    <string name="app_name">Bouy Detail</string>
+    <string name="NoaaUrl">http://www.ndbc.noaa.gov/data/realtime2/</string>
+    <string name="radialSearchUrl">http://www.ndbc.noaa.gov/radial_search.php</string>
+    <string name="coordinatesearchUrl">http://sdf.ndbc.noaa.gov/sos/server.php?</string>
+    <string name="searchrequest">request=GetObservation</string>
+    <string name="searchservice">service=SOS</string>
+    <string name="searchoffering">offering=urn:ioos:network:noaa.nws.ndbc:all</string>
+    <string name="searchfeature">featureofinterest=BBOX:</string>
+    <string name="searchobservedproperty">observedproperty=Waves</string>
+    <string name="searchresponseformat">responseformat=text/xml;schema=</string>
+    <string name="searchschemaname">\"ioos/0.6.1\"</string>
+    
+    
+    <string name="hello">Ahoy!</string>
+</resources>

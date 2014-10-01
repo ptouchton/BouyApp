@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    >
+  <TableRow>
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".23"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:layout_marginRight="6dp"
+    android:text="Date" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:text="WvH" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:layout_marginRight="2dp"
+    android:text="SwH" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".07"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:layout_marginRight="2dp"
+    android:text="SwP" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:layout_marginRight="10dp"
+    android:text="SwD" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:text="WwH" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:text="WwP" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:layout_marginRight="8dp"
+    android:text="WwD" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".20"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:text="Steepness" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:text="APD" />
+   <TextView
+    android:width="0dip"
+    android:layout_weight=".09"
+    android:textSize="8dip"
+    android:textStyle="bold"
+    android:text="MwD" />
+ </TableRow>
+</TableLayout>

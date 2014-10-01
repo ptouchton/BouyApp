@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/header"
+  android:layout_width="fill_parent"
+  android:layout_marginRight="2dp"
+  android:layout_marginLeft="2dp"
+  android:layout_height="wrap_content">
+  <TableRow>
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+  </TableRow>
+  <TableRow >
+  <TableRow>
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <TableRow>
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+   <TextView
+    android:layout_margin="1dp"
+    android:gravity="center_horizontal"
+    android:layout_weight="1"
+    android:text="Date" />
+    </TableRow>
+    <TableRow>
+    	<TextView
+     		android:layout_height="0dp"
+     		android:layout_weight="1"
+     		android:layout_marginRight="1dp"
+     		android:layout_marginLeft="1dp"/>
+        <TextView
+            android:id="@+id/date"
+            android:width="0dip"
+            android:layout_weight="1.5"
+            android:textSize="8dip"
+            android:layout_marginRight="1dp"
+        />
+        <TextView
+            android:id="@+id/wvht"
+            android:width="0dip"
+            android:layout_weight=".5"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/swh"
+            android:width="0dip"
+            android:layout_weight=".5"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/swp"
+            android:width="0dip"
+            android:layout_weight=".5"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/swd"
+            android:width="0dip"
+            android:layout_weight=".75"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/wwh"
+            android:width="0dip"
+            android:layout_weight=".5"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/wwp"
+            android:width="0dip"
+            android:layout_weight=".5"
+            android:textSize="8dip"
+        />
+        
+        <TextView
+            android:id="@+id/wwd"
+            android:width="0dip"
+            android:layout_weight=".75"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/steepness"
+            android:width="0dip"
+            android:layout_weight="1"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/apd"
+            android:width="0dip"
+            android:layout_weight=".5"
+            android:textSize="8dip"
+        />
+        <TextView
+            android:id="@+id/mwd"
+            android:width="0dip"
+            android:layout_weight=".5"
+            android:textSize="8dip"
+        />
+    </TableRow>
+</TableLayout>
+</TableRow>
+</TableRow>
+</TableLayout>
+
